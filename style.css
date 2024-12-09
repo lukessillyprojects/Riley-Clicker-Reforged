@@ -1,5 +1,7 @@
 body {
     background-color: rgb(0, 0, 114);
+    background: rgb(0,174,255);
+background: linear-gradient(360deg, rgba(0,174,255,1) 0%, rgba(0,131,191,1) 35%, rgba(0,91,133,1) 100%);
 }
 
 .text {
