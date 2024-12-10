@@ -8,6 +8,6 @@ gsap.to('.box', {
 
 gsap.to('.button', {
     scrollTrigger: '.box', // start the animation when ".box" enters the viewport
-    y: -290,
+    y: -400,
     duration: 1.5
 });
