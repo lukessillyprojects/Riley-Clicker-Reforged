@@ -34,7 +34,7 @@ body {
     width: 2400px;
     height: 80px;
     font-size: 80px;
-    align-items: center;
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
